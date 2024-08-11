@@ -11,6 +11,17 @@ type ImageCardProps = {
   | { blackonwhite?: false; whiteonblack?: false }
 );
 
+/**
+ * ImageCard component renders an image with optional text and various themes.
+ *
+ * @param {Object} props - The properties object.
+ * @param {string} props.src - The source URL of the image.
+ * @param {string|null} [props.theme=null] - The theme of the card, can be "dark" or "light".
+ * @param {boolean} [props.text=true] - Whether to display the text below the image.
+ * @param {boolean} [props.blackonwhite=false] - Whether to use black text on a white background.
+ * @param {boolean} [props.whiteonblack=false] - Whether to use white text on a black background.
+ * @returns {JSX.Element} The rendered ImageCard component.
+ */
 export default function ImageCard({
   src,
   theme = null,
