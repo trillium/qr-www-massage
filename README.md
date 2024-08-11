@@ -81,10 +81,10 @@
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![TailwindCSS][TailwindCSS-badge]][TailwindCSS-url]
-* [![Vercel][Vercel-badge]][Vercel-url]
+- [![Next][Next.js]][Next-url]
+- [![React][React.js]][React-url]
+- [![TailwindCSS][TailwindCSS-badge]][TailwindCSS-url]
+- [![Vercel][Vercel-badge]][Vercel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
