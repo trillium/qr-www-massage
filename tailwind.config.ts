@@ -10,6 +10,8 @@ const config: Config = {
     extend: {
       colors: {
         primary: "#2dd4bf",
+        dark: "#1f1f1f",
+        light: "#fff",
       },
       screens: {
         xxs: "360px", // Custom breakpoint for extra extra small screens
