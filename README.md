@@ -73,7 +73,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="public/images/product_screenshot_dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="public/images/product_screenshot_light.jpg">
+    <img width="500px" alt="Product Name Screen Shot" src="public/images/product_screenshot_light.jpg">
+  </picture>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
