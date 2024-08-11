@@ -196,9 +196,13 @@ Project Link: [https://github.com/trillium/qr-www-massage](https://github.com/tr
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+- [QR Code API with Logo and Design](https://www.qrcode-monkey.com/qr-code-api-with-logo/)
+
+<a href="https://github.com/trillium/qr-www-massage">
+  <img src="public/images/qrMonkey.png" alt="Logo" height="50">
+</a>
+
+QR Code Monkey's public API makes a project like this possbile. Thanks!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
