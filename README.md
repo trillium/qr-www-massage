@@ -27,7 +27,7 @@
 <h3 align="center">Display QR</h3>
 
   <p align="center">
-    Tool to create and display QR codes on any sized screen for promotional purposes at events
+    Tool to create and display QR codes on any sized screen for promotional purposes at events. Uses the public QR Code Monkey API.
     <br />
     <a href="https://github.com/trillium/qr-www-massage"><strong>Explore the docs »</strong></a>
     <br />
