@@ -3,6 +3,15 @@ import { QRCodeObjectType } from "@/types";
 const baseUrl = "https://www.trilliummassage.la/";
 const reqUrl = "https://api.qrcode-monkey.com//qr/custom";
 
+/**
+ * Fetches a QR code from the QR Code Monkey API.
+ *
+ * @param {Object} params - The parameters object.
+ * @param {URLSearchParams} params.searchParams - The search parameters to be included in the QR code URL.
+ * @param {QRCodeObjectType} params.qrCodeObject - The QR code object containing customization options.
+ * @returns {Promise<Object>} The response data from the API, including the generated QR code and request URL.
+ * @throws {Error} If the HTTP request fails.
+ */
 export async function fetchQRCode({
     searchParams,
     qrCodeObject,
