@@ -24,10 +24,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Display QR</h3>
 
   <p align="center">
-    project_description
+    Tool to create and display QR codes on any sized screen for promotional purposes at events
     <br />
     <a href="https://github.com/trillium/qr-www-massage"><strong>Explore the docs »</strong></a>
     <br />
@@ -74,8 +74,6 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `trillium`, `qr-www-massage`,  `trilliumsmith`, `gmail`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,7 +220,7 @@ Project Link: [https://github.com/trillium/qr-www-massage](https://github.com/tr
 [issues-shield]: https://img.shields.io/github/issues/trillium/qr-www-massage.svg?style=for-the-badge
 [issues-url]: https://github.com/trillium/qr-www-massage/issues
 [license-shield]: https://img.shields.io/github/license/trillium/qr-www-massage.svg?style=for-the-badge
-[license-url]: https://github.com/trillium/qr-www-massage/blob/master/LICENSE.txt
+[license-url]: https://github.com/trillium/qr-www-massage/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/trilliumsmith
 [product-screenshot]: images/screenshot.png
