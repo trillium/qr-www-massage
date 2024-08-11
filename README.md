@@ -248,3 +248,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [JQuery-url]: https://jquery.com
 [TailwindCSS-badge]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [TailwindCSS-url]: https://tailwindcss.com/
+[Vercel-badge]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
